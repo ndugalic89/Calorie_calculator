@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="vjezbe">
+        <item>bicikl (vrlo lagano - 8km/h)</item>
+        <item>bicikl (lagano - 16km/h)</item>
+        <item>bicikl (srednje - 20km/h)</item>
+        <item>bicikl (brzo - 24km/h)</item>
+        <item>bicikl (utrkivanje - >32km/h)</item>
+        <item>stac. bicikl (lagano)</item>
+        <item>stac. bicikl (lagano do srednje)</item>
+        <item>stac. bicikl (srednje do brzo)</item>
+        <item>stac. bicikl (brzo)</item>
+        <item>stac. bicikl (vrlo brzo)</item>
+        <item>trčanje (vrlo lagano)</item>
+        <item>trčanje (lagano)</item>
+        <item>trčanje (lagano do srednje)</item>
+        <item>trčanje (srednje do brzo)</item>
+        <item>trčanje (brzo)</item>
+        <item>trčanje (vrlo brzo)</item>
+        <item>preskakanje užeta (lagano)</item>
+        <item>preskakanje užeta (srednje)</item>
+        <item>preskakanje užeta (brzo)</item>
+        <item>gimnastika (lagano)</item>
+        <item>gimnastika (srednje)</item>
+        <item>gimnastika (teško)</item>
+        <item>vježbe s utezima (lagano)</item>
+        <item>vježbe s utezima (srednje)</item>
+        <item>vježbe s utezima (teško)</item>
+        <item>aerobik (nizak učinak)</item>
+        <item>aerobik (visoki učinak)</item>
+    </string-array>
+    
+    <string-array name="mets">
+        <item>3.5</item>
+        <item>6.8</item>
+        <item>8</item>
+        <item>10</item>
+        <item>13</item>
+        <item>3.5</item>
+        <item>4.8</item>
+        <item>6.8</item>
+        <item>10</item>
+        <item>14</item>
+        <item>6</item>
+        <item>9</item>
+        <item>11</item>
+        <item>13</item>
+        <item>16</item>
+        <item>20</item>
+        <item>8.8</item>
+        <item>11.8</item>
+        <item>12.3</item>
+        <item>2.8</item>
+        <item>3.8</item>
+        <item>8</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>6</item>
+        <item>5</item>
+        <item>7.3</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+    
+     <item
+        android:id="@+id/aboutApp"
+        android:title="@string/about"
+        myapp:showAsAction="never"
+        />
+    
+    <item
+        android:id="@+id/izlaz"
+        android:title="@string/izlaz"
+        myapp:showAsAction="never"
+        />
+
+</menu>

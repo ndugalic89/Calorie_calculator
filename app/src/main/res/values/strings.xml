@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kalkulator kalorija</string>
+    <string name="odaberi_vjezbu">Odaberi aktivnost!</string>
+    <string name="unesi_tezinu">Unesi tjelesnu masu (kg):</string>
+    <string name="unesi_vrijeme">Unesi vrijeme (u minutama):</string>
+    <string name="bIzracunaj">Izračunaj</string>
+    <string name="bSave">Spremi</string>
+    <string name="pregled">Pregled potrošenih kalorija</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Reset</string>
+    <string name="izlaz">Izlaz</string>
+    <string name="about">O aplikaciji</string>
+    <string name="metoda1">Potrošnja kalorija po aktivnostima</string>
+    <string name="metoda2">Potrošnja kalorija ovisno o otkucajima srca</string>
+    <string name="st_watch">Štoperica</string>
+    <string name="dnevnik_unosa">Dnevnik unosa</string>
+    <string name="bUnos">Unos kalorija</string>
+    <string name="bPregledunesenog">Pregled unesenih kalorija</string>
+    <string name="tvAbout">Aplikacija pruža dva načina za izračun potrošenih kalorija 
+        prilikom neke aktivnosti. Prva metoda uzima u obzir težinu osobe, 
+        efektivno vrijeme izvođenja aktivnosti i metabolički ekvivalent 
+        koji je specifičan za pojedinu aktivnost. Druga metoda za izračun potrošnje 
+        kalorija uzima u obzir spol, dob i težinu osobe, trajanje aktivnosti i broj otkucaja srca.</string>
+
+    <string name="spol">Spol:</string>
+    <string name="godine">Godine:</string>
+    <string name="vrijeme">Vrijeme trajanja vježbe:</string>
+    <string name="minute">minuta</string>
+    <string name="srce">Puls srca:</string>
+    <string name="bpm">otkucaja/min</string>
+    <string name="kg">kg</string>
+    <string name="raspon">od 100 do 200</string>
+    <string name="tezina">Masa:</string>
+    <string name="musko">Muškarac</string>
+    <string name="zensko">Žena</string>
+    
+
+    <string name="aktivnost">Vježba:</string>
+    <string name="tipAktivnosti">Tip aktivnosti:</string>
+    <string name="kCal">kCal:</string>
+    <string name="dzuli">J:</string>
+    <string name="delete">Obriši</string>
+    <string name="datum">Datum:</string>
+    
+    <string name="odaberi_namirnicu">Odaberi namirnicu!</string>
+    <string name="kilokalorije_namirnice">kCal</string>
+    <string name="dodaj_grame">Grami</string>
+    <string name="bZbroji">Zbroji</string>
+    <string name="ukupan_unos">Ukupan unos kCal:</string>
+    <string name="bSpremiubazu">Spremi</string>
+    <string name="bPonisti">Poništi</string>
+    <string name="unos_kCal">Unos kCal:</string>
+    
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="left|center"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp" >
+
+    <LinearLayout
+        android:id="@+id/layout_item"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+        <RadioButton
+            android:id="@+id/rdb_select_item"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="5dp" />
+
+        <LinearLayout
+            android:id="@+id/layout_item_detail"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/vjezba"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/tipAktivnosti"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/kilokalorije"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/kCal"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/dzuli"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/dzuli"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/datum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/datum"
+                android:textSize="18sp" />
+            
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

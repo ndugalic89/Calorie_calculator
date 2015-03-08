@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="namirnice">
+        <item>odaberi...</item>
+        <item>ananas (100g)</item>
+        <item>avokado (100g)</item>
+        <item>bademi (100g)</item>
+        <item>banana (100g)</item>
+        <item>bomboni (100g)</item>
+        <item>borovnice (100g)</item>
+        <item>breskeve (100g)</item>
+        <item>brokula (100g)</item>
+        <item>bundevino sjeme (100g)</item>
+        <item>cikla, kuhana (100g)</item>
+        <item>čokolada s lješnjacima (100g)</item>
+        <item>čokolada, bijela (100g)</item>
+        <item>čokolada, mliječna (100g)</item>
+        <item>čokoladni puding (100g)</item>
+        <item>čokoladno mlijeko (100g)</item>
+        <item>dinja (100g)</item>
+        <item>energetska pločica (100g)</item>
+        <item>govedina, kuhana (100g)</item>
+        <item>goveđi biftek (100g)</item>
+        <item>grah, bijeli, kuhani (100g)</item>
+        <item>grašak, kuhani (100g)</item>
+        <item>grejp (100g)</item>
+        <item>grožđe (100g)</item>
+        <item>hamburger (100g)</item>
+        <item>hotdog (100g)</item>
+        <item>hrenovka (100g)</item>
+        <item>jabuka (100g)</item>
+        <item>jagode (100g)</item>
+        <item>jaje, omlet (100g)</item>
+        <item>jaje, pečeno (100g)</item>
+        <item>jaje, tvrdo kuhano (100g)</item>
+        <item>janjetina (100g)</item>
+        <item>ječmene pahuljice (100g)</item>
+        <item>jogurt, obični (100g)</item>
+        <item>jogurt, voćni (100g)</item>
+        <item>keleraba (100g)</item>
+        <item>kikiriki, slani (100g)</item>
+        <item>kivi (100g)</item>
+        <item>kokice (100g)</item>
+        <item>kola (100g)</item>
+        <item>krastavac (100g)</item>
+        <item>krem juha od povrća (100g)</item>
+        <item>kruh, polubijeli (100g)</item>
+        <item>kruh, pšenični (100g)</item>
+        <item>kruh, raženi (100g)</item>
+        <item>krumpir, kuhani (100g)</item>
+        <item>krumpir, pečeni (100g)</item>
+        <item>kruške (100g)</item>
+        <item>krvavice (100g)</item>
+        <item>kukuruz, konzervirani (100g)</item>
+        <item>kukuruzne pahuljice (100g)</item>
+        <item>kupine (100g)</item>
+        <item>kupus (100g)</item>
+        <item>lazanje (100g)</item>
+        <item>limun (100g)</item>
+        <item>lubenica (100g)</item>
+        <item>lješnjaci (100g)</item>
+        <item>majoneza, classic (100g)</item>
+        <item>maline (100g)</item>
+        <item>mango (100g)</item>
+        <item>marelica (100g)</item>
+        <item>med (100g)</item>
+        <item>mlijeko od soje (100g)</item>
+        <item>mlijeko, 2.5% m.m. (100g)</item>
+        <item>mrkva (100g)</item>
+        <item>mrkva, kuhana (100g)</item>
+        <item>naranče (100g)</item>
+        <item>nektarine (100g)</item>
+        <item>orasi (100g)</item>
+        <item>perec (100g)</item>
+        <item>pileća juha (100g)</item>
+        <item>pileća prsa (100g)</item>
+        <item>pistacije, pržene slane (100g)</item>
+        <item>pivo, 5% alkohola (100g)</item>
+        <item>pivo, bezalkoholno (100g)</item>
+        <item>pizza, više vrsta (100g)</item>
+        <item>pureća prsa (100g)</item>
+        <item>rajčice (100g)</item>
+        <item>riža, bijela, kuhana (100g)</item>
+        <item>riža, smeđa, kuhana (100g)</item>
+        <item>sir, posni (100g)</item>
+        <item>sir, tvrdi (100g)</item>
+        <item>sladoled (100g)</item>
+        <item>svinjetina, pečena (100g)</item>
+        <item>svinjska kobasica (100g)</item>
+        <item>svinjska šunka u ovitku (100g)</item>
+        <item>svinjski kotlet (100g)</item>
+        <item>špageti s umakom od rajčice (100g)</item>
+        <item>špinat, kuhani (100g)</item>
+        <item>šunka, kuhana (100g)</item>
+        <item>šunka, sušena (100g)</item>
+        <item>tijesto, kuhano (100g)</item>
+        <item>tikvice (100g)</item>
+        <item>tuna u ulju (100g)</item>
+        <item>vino, bijelo (100g)</item>
+        <item>vino, crveno (100g)</item>
+    </string-array>
+    <string-array name="namirnice_kcal">
+        <item>0</item>
+        <item>61</item>
+        <item>188</item>
+        <item>583</item>
+        <item>86</item>
+        <item>461</item>
+        <item>75</item>
+        <item>39</item>
+        <item>29</item>
+        <item>345</item>
+        <item>34</item>
+        <item>577</item>
+        <item>560</item>
+        <item>541</item>
+        <item>105</item>
+        <item>100</item>
+        <item>47</item>
+        <item>419</item>
+        <item>198</item>
+        <item>116</item>
+        <item>114</item>
+        <item>86</item>
+        <item>45</item>
+        <item>57</item>
+        <item>272</item>
+        <item>251</item>
+        <item>293</item>
+        <item>54</item>
+        <item>36</item>
+        <item>144</item>
+        <item>235</item>
+        <item>154</item>
+        <item>173</item>
+        <item>386</item>
+        <item>69</item>
+        <item>37</item>
+        <item>29</item>
+        <item>625</item>
+        <item>48</item>
+        <item>376</item>
+        <item>44</item>
+        <item>14</item>
+        <item>41</item>
+        <item>256</item>
+        <item>266</item>
+        <item>198</item>
+        <item>82</item>
+        <item>126</item>
+        <item>54</item>
+        <item>374</item>
+        <item>121</item>
+        <item>376</item>
+        <item>58</item>
+        <item>27</item>
+        <item>146</item>
+        <item>36</item>
+        <item>37</item>
+        <item>667</item>
+        <item>741</item>
+        <item>68</item>
+        <item>61</item>
+        <item>60</item>
+        <item>308</item>
+        <item>38</item>
+        <item>55</item>
+        <item>33</item>
+        <item>27</item>
+        <item>44</item>
+        <item>36</item>
+        <item>675</item>
+        <item>395</item>
+        <item>26</item>
+        <item>157</item>
+        <item>606</item>
+        <item>42</item>
+        <item>15</item>
+        <item>203</item>
+        <item>106</item>
+        <item>19</item>
+        <item>96</item>
+        <item>137</item>
+        <item>74</item>
+        <item>193</item>
+        <item>196</item>
+        <item>116</item>
+        <item>322</item>
+        <item>320</item>
+        <item>195</item>
+        <item>117</item>
+        <item>16</item>
+        <item>136</item>
+        <item>201</item>
+        <item>99</item>
+        <item>27</item>
+        <item>190</item>
+        <item>80</item>
+        <item>86</item>
+    </string-array>
+
+</resources>

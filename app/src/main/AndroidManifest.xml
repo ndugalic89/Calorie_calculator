@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nidjo.fitnesskalkulatorkalorija"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ikona"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.Pocetna"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.Metoda1"
+            android:label="@string/app_name"
+            >
+            
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+        </activity>
+        
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.Pregled"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SECOND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+            
+        </activity>
+        
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.Stoperica"
+            android:label="@string/app_name"
+
+            android:screenOrientation="portrait" >
+            
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+            
+        </activity>
+        
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.AboutApp"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.ABOUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.Metoda2"
+            android:label="@string/app_name" 
+            >
+            
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+            
+        </activity>
+        
+        <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.UnosKalorija"
+            android:label="@string/app_name" 
+            >
+            
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+            
+        </activity>
+        
+         <activity
+            android:name="nidjo.fitnesskalkulatorkalorija.PregledUnosa"
+            android:label="@string/app_name" 
+            >
+            
+            <meta-data
+            	android:name="android.support.PARENT_ACTIVITY"
+            	android:value="nidjo.fitnesskalkulatorkalorija.Pocetna" />
+            
+        </activity>
+        
+    </application>
+
+</manifest>
