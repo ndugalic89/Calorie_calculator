@@ -1,3 +1,2 @@
 # Calorie_calculator
-Android app that calculates calorie intake and
-consumption based on type of exercise or heart rate
+This is an Android application which will help the user to calculate how much energy was spend during some exercise and how many calories was taken into the body. Calculation of energy expenditure can be done using two methods. The first method uses a formula based on following parameters: users mass, duration of an exercise, and metabolic equivalent of an exercise. The second method will calculate energy expenditure depending on age of user, its mass, duration of an exercise and a heart rate. To calculate calorie intake, it is necessary to select one of four available groceries and enter its mass.
